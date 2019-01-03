@@ -1,0 +1,9 @@
+SFWR ENG 2XB3
+
+Giacomo Loparco / 400083154 / Log Admin, Programmer, Tester
+Jacob Gordon / 400071013 / Designer, Programmer
+Mohammad Hussain / 400081369 / Tester, Programmer
+Lucas Zacharewicz / 400054446 / Team Leader, Programmer, Designer
+
+All work being submitted, except for those stated within the Design Specification (Graph, Heap, Bag),
+are entirely original works done by members of the group, Group 5. 
